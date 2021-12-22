@@ -1,0 +1,16 @@
+{
+	"Age" : 30,
+	"Name" : "Liangbaikai's liangbaikai",
+	"fruit" : 
+	[
+		"strawberry",
+		"orange",
+		"banana"
+	],
+	"gender" : "man",
+	"mail" : 
+	{
+		"Google" : "XXX@gmail.com",
+		"QQ" : "XXX@qq.com"
+	}
+}
